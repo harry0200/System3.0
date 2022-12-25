@@ -17,19 +17,54 @@
             android:layout_height="wrap_content"
             android:background="#FF9800"
             android:gravity="center"
-            android:text="MapleLoginApp"
+            android:text="GroupBuying"
             android:textSize="30sp" />
 
-        <ImageView
-            android:id="@+id/imageView"
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            app:srcCompat="@drawable/_d1lec8" />
+            android:layout_height="239dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="製作人員:"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="資傳三A 孫銘謙 410919352"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="資傳三A 錢彥翔 410814170"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="資傳三A 顏佑儒 410919491"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="資傳三A 陳學儒 410919899"
+                android:textSize="25sp" />
+        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#FFC107"
+            android:background="#FFFFFF"
             android:orientation="horizontal">
 
             <TextView
@@ -46,15 +81,14 @@
                 android:layout_height="68dp"
                 android:layout_weight="1"
                 android:ems="10"
-                android:inputType="textPersonName"
-                android:text="harry0200" />
+                android:inputType="textPersonName" />
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:background="#FFC107"
+            android:background="#FFFFFF"
             android:orientation="horizontal">
 
             <TextView
@@ -71,8 +105,7 @@
                 android:layout_height="76dp"
                 android:layout_weight="1"
                 android:ems="10"
-                android:inputType="textPersonName"
-                android:text="741852963" />
+                android:inputType="textPersonName" />
 
         </LinearLayout>
 
@@ -80,7 +113,19 @@
             android:id="@+id/login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="登入" />
+
+        <Button
+            android:id="@+id/createaccount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="創建帳號" />
+
+        <Button
+            android:id="@+id/leave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="離開系統" />
 
     </LinearLayout>
 

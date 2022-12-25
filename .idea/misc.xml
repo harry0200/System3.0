@@ -3,8 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3615" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3615" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/activity_create.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/activity_donate.xml" value="0.27355072463768115" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/activity_user.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/complain.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/layout/feedback.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/menu/mymenu" value="0.36614583333333334" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/menu/mymenu.xml" value="0.5" />
+        <entry key="..\:/Users/harry/AndroidStudioProjects/MapleLogin/app/src/main/res/xml/actions.xml" value="0.1" />
       </map>
     </option>
   </component>
